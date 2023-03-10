@@ -31,7 +31,7 @@ When `n` (length of the array) is an even number the _middle_ element is obtaine
 
 The folders and files of this project are the following:
 
-- `src/median.cpp`: the source file where you should **code** your solution. This is the **only** file you need to run the tests.
+- `src/median.cpp`: the source file where you should **code** your solution. This is the **only** file you need modify to run the tests.
 - `src/median.h`: a header with the declaration of the median function.
 - `src/CMakeLists.txt`: the `cmake` file of this folder (it only sets the C++ standard).
 - `src/tests/`: This is the folder that contains the tests and the `TestManager` library. _You do not need to edit any file in this folder_.
