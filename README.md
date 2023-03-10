@@ -109,7 +109,7 @@ If everything went fine, the result of the command above might be:
 ```
 
 Because the function `median_of_3()` has not been coded just yet, it fails most of the tests.
-If you code the function correctly, all the tests shold yield status OK.
+If you code the function correctly, all the tests should yield status OK.
 
 # Authorship
 
