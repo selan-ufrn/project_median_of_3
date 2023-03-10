@@ -2,8 +2,8 @@
 
 In this optional assignment you should develop a C++ function that solves the following problem:
 
-> Code a C++ function that receives an array of integers with `n` elements, examine the **first**, **last**, and  **middle** elements, find the median of these 3 elements and, if necessary, swap them so that the median element found becomes the last element of the array. The order of the other two elements in the array is irrelevant BUT is desirable that the highest of the remaining two elements comes before the smallest element.
-> The function should no create a new array, rather it should only swap the three elements mentioned above.
+> Code a C++ function that receives an array of integers with `n` elements, examine the **first**, **last**, and  **middle** elements, find the median of these 3 elements and, if necessary, swap them so that the median value found becomes the last element of the array. The order of the other two elements in the array is irrelevant BUT is desirable that the highest of the remaining two elements comes before the smallest element.
+> The function should not create a new array, rather it should only swap the three elements mentioned above.
 
 In this repository you'll find the support code to test your solution.
 
